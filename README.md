@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charlesc4
-- 🌱 I’m currently learning Python
+- 🌱 Python & Data Analysis
 - 💞️ I’m looking to collaborate on small projects
 - 📫 charlesc4@gmail.com
 
